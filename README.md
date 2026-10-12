@@ -22,7 +22,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a Computer Engineering student passionate about building intelligent systems that combine artificial intelligence, data processing, and practical engineering.
 
@@ -38,7 +38,7 @@ My long-term goal is to develop strong technical expertise in AI and data-driven
 
 ---
 
-## 🎯 Areas of Focus
+## Areas of Focus
 
 ### 🤖 AI Research & Agentic AI
 
@@ -80,7 +80,7 @@ Areas of interest include:
 
 ---
 
-## 🚀 Featured Project
+## Featured Project
 
 ### DataBrain Research Intelligence (DBRI)
 
@@ -126,7 +126,7 @@ The project emphasizes context processing, research orchestration, consistent ou
 
 ---
 
-## 🧰 Technologies & Tools
+## Technologies & Tools
 
 ### Programming
 <p>
@@ -151,7 +151,7 @@ The project emphasizes context processing, research orchestration, consistent ou
 
 ---
 
-## 📈 GitHub Overview
+## GitHub Overview
 
 <p align="center">
   <img
@@ -168,7 +168,7 @@ The project emphasizes context processing, research orchestration, consistent ou
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 I'm interested in connecting with developers, researchers, students, and technology communities working on AI, data, and computer engineering.
 
